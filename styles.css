@@ -1,0 +1,41 @@
+p {
+    float: left;
+    margin-left: 42%;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: Comic Sans MS;
+}
+
+.input {
+    float: left;
+    margin-left: 40%;
+}
+.input label{
+    float: left;
+}
+
+#start {
+    float: left;
+    margin-left: 46.2%;
+    margin-bottom: 3%;
+    height: 50px;
+    width: 130px;
+    font-size: 1.2em;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+}
+
+
+#jadval {
+    float: left;
+    margin-left: 40%;
+    border: 2px solid black;
+}
+.xo {
+    height: 100px;
+    width: 100px;
+    font-size: 3em;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 1px;
+}
